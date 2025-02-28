@@ -13,7 +13,7 @@ const LoginPage = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const handleLogin = () => {
-    if (username === "lion" && password === "lion") {
+    if (username === "suryateja" && password === "19189221149") {
       setIsLoggedIn(true);
       setError("");
     } else {
